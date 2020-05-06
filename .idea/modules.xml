@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVVMSample.iml" filepath="$PROJECT_DIR$/MVVMSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/MVVMSample-app.iml" filepath="$PROJECT_DIR$/app/MVVMSample-app.iml" group="MVVMSample/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-android-examples-MVVMSample.iml" filepath="$PROJECT_DIR$/kotlin-android-examples-MVVMSample.iml" group="MVVMSample" />
+    </modules>
+  </component>
+</project>
